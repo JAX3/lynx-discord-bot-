@@ -1,0 +1,4 @@
+discord.js==11.0.0
+aiohttp
+websockets
+chardet
